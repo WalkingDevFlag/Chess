@@ -51,3 +51,11 @@ class TicTacToe:
     
     def get_encoded_state(self, state):
         return np.stack((state == -1, state == 0, state == 1)).astype(np.float32)
+    
+    def render_board(self, state):
+        """Render the board with X, O, and _ for better readability."""
+        char_map = {1: 'X', -1: 'O', 0: '_'}
+        board = [[char_map[cell] for cell in row] for row in state]
+        for row in board:
+            print(" ".join(row))
+
