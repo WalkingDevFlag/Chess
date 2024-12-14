@@ -1,0 +1,7 @@
+E:\Random Python Scripts\kaggle chess\C#\Chess_Bot 1\Chess_Bot 1\bin\Debug\Chess_Bot 1.exe.config
+E:\Random Python Scripts\kaggle chess\C#\Chess_Bot 1\Chess_Bot 1\bin\Debug\Chess_Bot 1.exe
+E:\Random Python Scripts\kaggle chess\C#\Chess_Bot 1\Chess_Bot 1\bin\Debug\Chess_Bot 1.pdb
+E:\Random Python Scripts\kaggle chess\C#\Chess_Bot 1\Chess_Bot 1\obj\Debug\Chess_Bot 1.csproj.AssemblyReference.cache
+E:\Random Python Scripts\kaggle chess\C#\Chess_Bot 1\Chess_Bot 1\obj\Debug\Chess_Bot 1.csproj.CoreCompileInputs.cache
+E:\Random Python Scripts\kaggle chess\C#\Chess_Bot 1\Chess_Bot 1\obj\Debug\Chess_Bot 1.exe
+E:\Random Python Scripts\kaggle chess\C#\Chess_Bot 1\Chess_Bot 1\obj\Debug\Chess_Bot 1.pdb
