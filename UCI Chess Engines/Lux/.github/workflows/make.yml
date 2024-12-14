@@ -1,0 +1,29 @@
+name: Lux
+
+on:
+    push:
+      branches: [ 'main' ]
+    pull_request:
+      branches: [ 'main' ]
+
+defaults:
+  run:
+    working-directory: src
+
+jobs:
+  Lux:
+    name: compile check
+
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Default
+      run: make default
+
+    - name: Release
+      run: make release
