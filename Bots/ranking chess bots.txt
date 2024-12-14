@@ -1,0 +1,9 @@
+1) first_chess_bot:
+
+2) ExtendedGame:
+score: 257 
+
+3) Advanced_Chess_Engine:
+score: 64
+
+4)
