@@ -1,0 +1,28 @@
+Google Chess Engine
+
+So I found a few Open-Source Chess Engines:
+
+In C++ and C:
+1) Altair Chess: https://github.com/Alex2262/AltairChessEngine
+2) Bit Genie: https://github.com/Aryan1508/Bit-Genie
+3) Ethereal: https://github.com/AndyGrant/Ethereal
+4) Blunder: https://github.com/deanmchris/blunder
+5) Lux: https://github.com/Sidhant-Roymoulik/Lux
+
+In C#:
+1) Boy Chesser: https://github.com/SebLague/Tiny-Chess-Bot-Challenge-Results/blob/main/Bots/Bot_614.cs 
+2) TinyHugeChess: https://github.com/SebLague/Tiny-Chess-Bot-Challenge-Results/blob/main/Bots/Bot_610.cs
+3) 
+
+In Python:
+1) https://github.com/nadeem4/chess_engine_using_python
+2) https://github.com/dkappe/a0lite
+3) https://github.com/mdoege/PyTuroChamp
+4) https://github.com/mikolaj-skrzypczak/chess-engine\
+
+Stockfish engine download:
+https://drive.google.com/drive/folders/1nzrHOyZMFm4LATjF5ToRttCU0rHXGkXI
+
+An Old Website I found:
+1) https://www.wbec-ridderkerk.nl/
+2) https://www.wbec-ridderkerk.nl/html/BayesianElo_ed19.htm
