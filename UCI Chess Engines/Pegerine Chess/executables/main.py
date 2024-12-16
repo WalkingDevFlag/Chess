@@ -1,5 +1,4 @@
-
-
+import os
 import subprocess
 
 
@@ -71,8 +70,11 @@ def chess_bot(obs):
     global ultima  # Declare ultima as global to modify it
     fen = obs['board']
 
-
-    engine_path = '/mnt/e/Random Python Scripts/kaggle chess/peregrine-chess/peregrine' # for Ubuntu
+    if os.path.exists("/kaggle_simulations"):
+        engine_path = "/kaggle_simulations/agent/peregrine"
+    else:
+        engine_path = "/kaggle/working/Ethe2/src/peregrine"
+    #engine_path = '/mnt/e/Random Python Scripts/kaggle chess/peregrine-chess/peregrine' # for Ubuntu
     #engine_path = 'E:\Random Python Scripts\kaggle chess\Ethereal\Ethereal'
     if ultima is None:
         ultima = ChessEngine(engine_path)
